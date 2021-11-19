@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Quizizz Cheat
-// @source       fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/")
+// @source       fetch("https://raw.githubusercontent.com/RealNattawattHongthong/quizzizz-cheat/")
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
